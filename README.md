@@ -15,7 +15,7 @@ This is a brief writeup report of Self-Driving Car Engineer P1.
 
 ## **Describe the pipeline**
 
-My pipeline consisted of **6** steps:
+The pipeline of [P1](./P1.ipynb) consisted of **6** steps:
 1. Grayscale the image
 2. Gaussian smoothing
 3. Canny edges
