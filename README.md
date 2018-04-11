@@ -44,8 +44,8 @@ Because of the actual image or video scences, the interest region is a quadrilat
 There are some parameters for Hough space grid:
 
 - a `rho` of `2` pixels and `theta` of 1 degree (`pi/180` radians). 
-- a `threshold` of `30`, meaning at least 30 points in image space need to be associated with each line segment. 
-- a `min_line_length` of `50` pixels, and `max_line_gap` of `20` pixels.
+- a `threshold` of `50`, meaning at least 50 points in image space need to be associated with each line segment. 
+- a `min_line_length` of `40` pixels, and `max_line_gap` of `20` pixels.
 
 ![alt text][image1] 
 
